@@ -434,7 +434,7 @@ More: [Wiki](http://lua-users.org/wiki/MathLibraryTutorial)
 
 ## Modules
 
-Include code other files
+Include code from other files
 ```lua
 require("otherfile")
 ```
